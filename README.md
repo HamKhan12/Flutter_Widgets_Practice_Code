@@ -5,8 +5,6 @@ A Flutter application dedicated to practicing and demonstrating the use of funda
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-| **ListView of Profiles** | <img src="https://i.imgur.com/5kf6WYg.png" width="300"/> |
-
 ## 🚀 Features & Widgets Demonstrated
 
 This project includes practical examples of the following Flutter widgets and concepts:
